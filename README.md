@@ -22,7 +22,14 @@ The dataset is grouped in the form of clusters and it is done by using <b>"Kmean
 The model creation is done by using <b>"Random Forest"</b> algorithm and <b>"Xgboost"</b> algorithm and the model which is having the highest <b>"AUC_ROC"</b> score is selected.Hyperparameter tuning is also done to avoid the overfitting problem<br>.
 5.<b>"Model Prediction"</b>:
 Once the test data is given then  <b>"Data validation"</b> and <b>"Data Preprocessing"</b> are done depending upon the cluster the model is chosen and prediction is done using that model and the results are stored in "Prediction.csv" file.
+##Home Page
+<image src="images/home.PNG" width=500><br> 
 
+## Training
+<image src="images/train.PNG" width=500><br> 
+  
+##Prediction
+<image src="images/predict.PNG" width=500>
 
 
 
