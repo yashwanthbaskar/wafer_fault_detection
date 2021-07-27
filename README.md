@@ -2,10 +2,9 @@
 ## Problem statement
 To build a classification methodology to predict the quality of wafer sensors based on the given training data.<br>
 ## Data Description
-The client will send data in multiple sets of files in batches at a given location.<br>
-Data will contain Wafer names and 590 columns of different sensor values for each wafer.<br>
-The last column will have the "Good/Bad" value for each wafer.<br>
-"Good/Bad" column will have two unique values +1 and -1. <br> 
+Data contains Wafer names and 590 columns of different sensor values for each wafer.<br>
+The last column has the "Good/Bad" value for each wafer.<br>
+"Good/Bad" column has two unique values +1 and -1. <br> 
 "+1" represents Bad wafer.<br>
 "-1" represents Good Wafer.<br>
 ## Steps
